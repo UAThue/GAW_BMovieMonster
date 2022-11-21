@@ -1,0 +1,1414 @@
+fileFormatVersion: 2
+guid: bc600cce01eb57a409f4e69025868a2c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Box01
+  - first:
+      1: 100002
+    second: Box02
+  - first:
+      1: 100004
+    second: Box03
+  - first:
+      1: 100006
+    second: Box04
+  - first:
+      1: 100008
+    second: Box05
+  - first:
+      1: 100010
+    second: Box06
+  - first:
+      1: 100012
+    second: Box07
+  - first:
+      1: 100014
+    second: Box08
+  - first:
+      1: 100016
+    second: Box09
+  - first:
+      1: 100018
+    second: Box10
+  - first:
+      1: 100020
+    second: Box11
+  - first:
+      1: 100022
+    second: Box12
+  - first:
+      1: 100024
+    second: Box13
+  - first:
+      1: 100026
+    second: Box16
+  - first:
+      1: 100028
+    second: Box17
+  - first:
+      1: 100030
+    second: Box18
+  - first:
+      1: 100032
+    second: Box19
+  - first:
+      1: 100034
+    second: Box20
+  - first:
+      1: 100036
+    second: Box21
+  - first:
+      1: 100038
+    second: Box22
+  - first:
+      1: 100040
+    second: Box23
+  - first:
+      1: 100042
+    second: Box24
+  - first:
+      1: 100044
+    second: Box25
+  - first:
+      1: 100046
+    second: Box26
+  - first:
+      1: 100048
+    second: Box27
+  - first:
+      1: 100050
+    second: Box28
+  - first:
+      1: 100052
+    second: Box29
+  - first:
+      1: 100054
+    second: Box30
+  - first:
+      1: 100056
+    second: Box31
+  - first:
+      1: 100058
+    second: Box32
+  - first:
+      1: 100060
+    second: Box33
+  - first:
+      1: 100062
+    second: Box34
+  - first:
+      1: 100064
+    second: Box35
+  - first:
+      1: 100066
+    second: Box36
+  - first:
+      1: 100068
+    second: Box37
+  - first:
+      1: 100070
+    second: Box38
+  - first:
+      1: 100072
+    second: Dummy01
+  - first:
+      1: 100074
+    second: Dummy02
+  - first:
+      1: 100076
+    second: Dummy03
+  - first:
+      1: 100078
+    second: Dummy04
+  - first:
+      1: 100080
+    second: Dummy07
+  - first:
+      1: 100082
+    second: Dummy08
+  - first:
+      1: 100084
+    second: Dummy09
+  - first:
+      1: 100086
+    second: Dummy10
+  - first:
+      1: 100088
+    second: Dummy11
+  - first:
+      1: 100090
+    second: Dummy12
+  - first:
+      1: 100092
+    second: Dummy13
+  - first:
+      1: 100094
+    second: Dummy14
+  - first:
+      1: 100096
+    second: Dummy15
+  - first:
+      1: 100098
+    second: Dummy16
+  - first:
+      1: 100100
+    second: Dummy17
+  - first:
+      1: 100102
+    second: Dummy18
+  - first:
+      1: 100104
+    second: Dummy19
+  - first:
+      1: 100106
+    second: IK Chain01
+  - first:
+      1: 100108
+    second: IK Chain02
+  - first:
+      1: 100110
+    second: IK Chain03
+  - first:
+      1: 100112
+    second: IK Chain04
+  - first:
+      1: 100114
+    second: IK Chain05
+  - first:
+      1: 100116
+    second: IK Chain06
+  - first:
+      1: 100118
+    second: IK Chain07
+  - first:
+      1: 100120
+    second: IK Chain08
+  - first:
+      1: 100122
+    second: IK Chain09
+  - first:
+      1: 100124
+    second: IK Chain10
+  - first:
+      1: 100126
+    second: IK Chain11
+  - first:
+      1: 100128
+    second: IK Chain12
+  - first:
+      1: 100130
+    second: IK Chain13
+  - first:
+      1: 100132
+    second: IK Chain14
+  - first:
+      1: 100134
+    second: IK Chain15
+  - first:
+      1: 100136
+    second: IK Chain16
+  - first:
+      1: 100138
+    second: Spider01
+  - first:
+      1: 100140
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Box01
+  - first:
+      4: 400002
+    second: Box02
+  - first:
+      4: 400004
+    second: Box03
+  - first:
+      4: 400006
+    second: Box04
+  - first:
+      4: 400008
+    second: Box05
+  - first:
+      4: 400010
+    second: Box06
+  - first:
+      4: 400012
+    second: Box07
+  - first:
+      4: 400014
+    second: Box08
+  - first:
+      4: 400016
+    second: Box09
+  - first:
+      4: 400018
+    second: Box10
+  - first:
+      4: 400020
+    second: Box11
+  - first:
+      4: 400022
+    second: Box12
+  - first:
+      4: 400024
+    second: Box13
+  - first:
+      4: 400026
+    second: Box16
+  - first:
+      4: 400028
+    second: Box17
+  - first:
+      4: 400030
+    second: Box18
+  - first:
+      4: 400032
+    second: Box19
+  - first:
+      4: 400034
+    second: Box20
+  - first:
+      4: 400036
+    second: Box21
+  - first:
+      4: 400038
+    second: Box22
+  - first:
+      4: 400040
+    second: Box23
+  - first:
+      4: 400042
+    second: Box24
+  - first:
+      4: 400044
+    second: Box25
+  - first:
+      4: 400046
+    second: Box26
+  - first:
+      4: 400048
+    second: Box27
+  - first:
+      4: 400050
+    second: Box28
+  - first:
+      4: 400052
+    second: Box29
+  - first:
+      4: 400054
+    second: Box30
+  - first:
+      4: 400056
+    second: Box31
+  - first:
+      4: 400058
+    second: Box32
+  - first:
+      4: 400060
+    second: Box33
+  - first:
+      4: 400062
+    second: Box34
+  - first:
+      4: 400064
+    second: Box35
+  - first:
+      4: 400066
+    second: Box36
+  - first:
+      4: 400068
+    second: Box37
+  - first:
+      4: 400070
+    second: Box38
+  - first:
+      4: 400072
+    second: Dummy01
+  - first:
+      4: 400074
+    second: Dummy02
+  - first:
+      4: 400076
+    second: Dummy03
+  - first:
+      4: 400078
+    second: Dummy04
+  - first:
+      4: 400080
+    second: Dummy07
+  - first:
+      4: 400082
+    second: Dummy08
+  - first:
+      4: 400084
+    second: Dummy09
+  - first:
+      4: 400086
+    second: Dummy10
+  - first:
+      4: 400088
+    second: Dummy11
+  - first:
+      4: 400090
+    second: Dummy12
+  - first:
+      4: 400092
+    second: Dummy13
+  - first:
+      4: 400094
+    second: Dummy14
+  - first:
+      4: 400096
+    second: Dummy15
+  - first:
+      4: 400098
+    second: Dummy16
+  - first:
+      4: 400100
+    second: Dummy17
+  - first:
+      4: 400102
+    second: Dummy18
+  - first:
+      4: 400104
+    second: Dummy19
+  - first:
+      4: 400106
+    second: IK Chain01
+  - first:
+      4: 400108
+    second: IK Chain02
+  - first:
+      4: 400110
+    second: IK Chain03
+  - first:
+      4: 400112
+    second: IK Chain04
+  - first:
+      4: 400114
+    second: IK Chain05
+  - first:
+      4: 400116
+    second: IK Chain06
+  - first:
+      4: 400118
+    second: IK Chain07
+  - first:
+      4: 400120
+    second: IK Chain08
+  - first:
+      4: 400122
+    second: IK Chain09
+  - first:
+      4: 400124
+    second: IK Chain10
+  - first:
+      4: 400126
+    second: IK Chain11
+  - first:
+      4: 400128
+    second: IK Chain12
+  - first:
+      4: 400130
+    second: IK Chain13
+  - first:
+      4: 400132
+    second: IK Chain14
+  - first:
+      4: 400134
+    second: IK Chain15
+  - first:
+      4: 400136
+    second: IK Chain16
+  - first:
+      4: 400138
+    second: Spider01
+  - first:
+      4: 400140
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Spider01
+  - first:
+      74: 7400000
+    second: refpose
+  - first:
+      74: 7400002
+    second: walk
+  - first:
+      74: 7400004
+    second: run
+  - first:
+      74: 7400006
+    second: attack1
+  - first:
+      74: 7400008
+    second: attack2start
+  - first:
+      74: 7400010
+    second: idle
+  - first:
+      74: 7400012
+    second: hit1
+  - first:
+      74: 7400014
+    second: taunt
+  - first:
+      74: 7400016
+    second: hit2
+  - first:
+      74: 7400018
+    second: jump
+  - first:
+      74: 7400020
+    second: death1
+  - first:
+      74: 7400022
+    second: death2
+  - first:
+      74: 7400024
+    second: allanims
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Spider01
+  - first:
+      74: -7479411735885594262
+    second: refpose //// Spider01
+  - first:
+      74: -740973371545056768
+    second: walk //// Spider01
+  - first:
+      74: -7002857855260692099
+    second: run //// Spider01
+  - first:
+      74: 7614810888342815652
+    second: attack1 //// Spider01
+  - first:
+      74: 6992300469400679297
+    second: attack2 //// Spider01
+  - first:
+      74: -3024217116791143943
+    second: idle //// Spider01
+  - first:
+      74: 4710272865117001499
+    second: taunt //// Spider01
+  - first:
+      74: -1317461193101377096
+    second: hit1 //// Spider01
+  - first:
+      74: 4914530676834538230
+    second: hit2 //// Spider01
+  - first:
+      74: 1219747281499062984
+    second: jump //// Spider01
+  - first:
+      74: 8254880746545977774
+    second: death1 //// Spider01
+  - first:
+      74: 8749175838117502535
+    second: death2 //// Spider01
+  - first:
+      74: -6227014777975368598
+    second: allanims //// Spider01
+  - first:
+      74: 8359678889430697347
+    second: refpose //// Box01
+  - first:
+      74: -4638676167884386659
+    second: walk //// Box01
+  - first:
+      74: 6221508712938956121
+    second: run //// Box01
+  - first:
+      74: 6099236604921699675
+    second: attack1 //// Box01
+  - first:
+      74: -3162644009676207308
+    second: attack2 //// Box01
+  - first:
+      74: -8458610752190087055
+    second: idle //// Box01
+  - first:
+      74: 6541445463074358315
+    second: taunt //// Box01
+  - first:
+      74: 7202801049064728948
+    second: hit1 //// Box01
+  - first:
+      74: -5619043484836520734
+    second: hit2 //// Box01
+  - first:
+      74: -3164665103177043927
+    second: jump //// Box01
+  - first:
+      74: 9220440172184848815
+    second: death1 //// Box01
+  - first:
+      74: 4719018059093637660
+    second: death2 //// Box01
+  - first:
+      74: 8241125159240218084
+    second: allanims //// Box01
+  - first:
+      74: -1050850079963943358
+    second: refpose //// IK Chain01
+  - first:
+      74: 2779044324190025634
+    second: walk //// IK Chain01
+  - first:
+      74: -5505816167045452642
+    second: run //// IK Chain01
+  - first:
+      74: 6506579143701795019
+    second: attack1 //// IK Chain01
+  - first:
+      74: 6761462842224705231
+    second: attack2 //// IK Chain01
+  - first:
+      74: -5985445183429941897
+    second: idle //// IK Chain01
+  - first:
+      74: -3801998624931040449
+    second: taunt //// IK Chain01
+  - first:
+      74: 2486231593730350657
+    second: hit1 //// IK Chain01
+  - first:
+      74: -9025729742566958735
+    second: hit2 //// IK Chain01
+  - first:
+      74: 6917570371736594596
+    second: jump //// IK Chain01
+  - first:
+      74: 641677510178206006
+    second: death1 //// IK Chain01
+  - first:
+      74: 3928520005090724859
+    second: death2 //// IK Chain01
+  - first:
+      74: -2449750380162624568
+    second: allanims //// IK Chain01
+  - first:
+      74: 2141566316816263656
+    second: refpose //// IK Chain03
+  - first:
+      74: 9186872233640587582
+    second: walk //// IK Chain03
+  - first:
+      74: -4473845546331717982
+    second: run //// IK Chain03
+  - first:
+      74: 3333210756144503393
+    second: attack1 //// IK Chain03
+  - first:
+      74: -6245043239017056097
+    second: attack2 //// IK Chain03
+  - first:
+      74: 9222722895295689073
+    second: idle //// IK Chain03
+  - first:
+      74: 766536009431530394
+    second: taunt //// IK Chain03
+  - first:
+      74: -9168259204537579490
+    second: hit1 //// IK Chain03
+  - first:
+      74: 2549920041472095527
+    second: hit2 //// IK Chain03
+  - first:
+      74: 5621410300250053000
+    second: jump //// IK Chain03
+  - first:
+      74: -8205570984702910762
+    second: death1 //// IK Chain03
+  - first:
+      74: 2161528764850634297
+    second: death2 //// IK Chain03
+  - first:
+      74: 3495431692274742431
+    second: allanims //// IK Chain03
+  - first:
+      74: -2773650219438599837
+    second: refpose //// IK Chain04
+  - first:
+      74: 8326837385542857468
+    second: walk //// IK Chain04
+  - first:
+      74: -7290391793536902505
+    second: run //// IK Chain04
+  - first:
+      74: 2411877468931368730
+    second: attack1 //// IK Chain04
+  - first:
+      74: -1227378844521650414
+    second: attack2 //// IK Chain04
+  - first:
+      74: -6706719622652360506
+    second: idle //// IK Chain04
+  - first:
+      74: -8210582210285792813
+    second: taunt //// IK Chain04
+  - first:
+      74: 630237678008239969
+    second: hit1 //// IK Chain04
+  - first:
+      74: -1699899811374467373
+    second: hit2 //// IK Chain04
+  - first:
+      74: -1884752246944496894
+    second: jump //// IK Chain04
+  - first:
+      74: 6963095965001358188
+    second: death1 //// IK Chain04
+  - first:
+      74: 424355931034747951
+    second: death2 //// IK Chain04
+  - first:
+      74: -2004223609705911243
+    second: allanims //// IK Chain04
+  - first:
+      74: 7347772415137402730
+    second: refpose //// IK Chain05
+  - first:
+      74: -8814936145814930562
+    second: walk //// IK Chain05
+  - first:
+      74: 6039509652393245637
+    second: run //// IK Chain05
+  - first:
+      74: 1681293919361382817
+    second: attack1 //// IK Chain05
+  - first:
+      74: 5055448254785462440
+    second: attack2 //// IK Chain05
+  - first:
+      74: 5913425176317700820
+    second: idle //// IK Chain05
+  - first:
+      74: 615792046632535489
+    second: taunt //// IK Chain05
+  - first:
+      74: 6835831444154174887
+    second: hit1 //// IK Chain05
+  - first:
+      74: -4296085050710308505
+    second: hit2 //// IK Chain05
+  - first:
+      74: -5128056596096630690
+    second: jump //// IK Chain05
+  - first:
+      74: 4223712019571051156
+    second: death1 //// IK Chain05
+  - first:
+      74: 6455723446799213458
+    second: death2 //// IK Chain05
+  - first:
+      74: 891733493645069485
+    second: allanims //// IK Chain05
+  - first:
+      74: 5764213054027901448
+    second: refpose //// IK Chain06
+  - first:
+      74: 4837868303813421966
+    second: walk //// IK Chain06
+  - first:
+      74: 2089538574283716579
+    second: run //// IK Chain06
+  - first:
+      74: 6779451980906136077
+    second: attack1 //// IK Chain06
+  - first:
+      74: -7312245595741696804
+    second: attack2 //// IK Chain06
+  - first:
+      74: 3896972272059749533
+    second: idle //// IK Chain06
+  - first:
+      74: -6574228743380488413
+    second: taunt //// IK Chain06
+  - first:
+      74: 1852461466228776967
+    second: hit1 //// IK Chain06
+  - first:
+      74: -6422727750450285166
+    second: hit2 //// IK Chain06
+  - first:
+      74: -452967402843319558
+    second: jump //// IK Chain06
+  - first:
+      74: -852135528005968676
+    second: death1 //// IK Chain06
+  - first:
+      74: 8534958446553805112
+    second: death2 //// IK Chain06
+  - first:
+      74: -8293777349035975850
+    second: allanims //// IK Chain06
+  - first:
+      74: -7184107197824429597
+    second: refpose //// IK Chain07
+  - first:
+      74: -2886887796844707572
+    second: walk //// IK Chain07
+  - first:
+      74: -1630217208270601205
+    second: run //// IK Chain07
+  - first:
+      74: 6742412235352118871
+    second: attack1 //// IK Chain07
+  - first:
+      74: -5646372797462302264
+    second: attack2 //// IK Chain07
+  - first:
+      74: -2953687394781445184
+    second: idle //// IK Chain07
+  - first:
+      74: -4333059231995037854
+    second: taunt //// IK Chain07
+  - first:
+      74: 5715472904780653374
+    second: hit1 //// IK Chain07
+  - first:
+      74: 3245054226068330237
+    second: hit2 //// IK Chain07
+  - first:
+      74: 6912816629664024175
+    second: jump //// IK Chain07
+  - first:
+      74: 1329616536235235758
+    second: death1 //// IK Chain07
+  - first:
+      74: 1953969005743152021
+    second: death2 //// IK Chain07
+  - first:
+      74: -5078986329475548419
+    second: allanims //// IK Chain07
+  - first:
+      74: -4297761904356020359
+    second: refpose //// IK Chain08
+  - first:
+      74: -579174281073269869
+    second: walk //// IK Chain08
+  - first:
+      74: -2187687496561895698
+    second: run //// IK Chain08
+  - first:
+      74: 3112653141376862552
+    second: attack1 //// IK Chain08
+  - first:
+      74: -2174203332571188517
+    second: attack2 //// IK Chain08
+  - first:
+      74: 8842951617509394370
+    second: idle //// IK Chain08
+  - first:
+      74: 442798223151092265
+    second: taunt //// IK Chain08
+  - first:
+      74: -585204768234700814
+    second: hit1 //// IK Chain08
+  - first:
+      74: -6738199045542722453
+    second: hit2 //// IK Chain08
+  - first:
+      74: 358056707682815231
+    second: jump //// IK Chain08
+  - first:
+      74: 7947756955913454126
+    second: death1 //// IK Chain08
+  - first:
+      74: -7321496761419569711
+    second: death2 //// IK Chain08
+  - first:
+      74: -154402763689386442
+    second: allanims //// IK Chain08
+  - first:
+      74: -2230959639347480410
+    second: refpose //// IK Chain09
+  - first:
+      74: 3338193809711136067
+    second: walk //// IK Chain09
+  - first:
+      74: -7685419064833864460
+    second: run //// IK Chain09
+  - first:
+      74: -6729876607897878387
+    second: attack1 //// IK Chain09
+  - first:
+      74: -7337252037998291425
+    second: attack2 //// IK Chain09
+  - first:
+      74: 4121813897816871315
+    second: idle //// IK Chain09
+  - first:
+      74: -6005713241026696055
+    second: taunt //// IK Chain09
+  - first:
+      74: 6719594718926238909
+    second: hit1 //// IK Chain09
+  - first:
+      74: -5864532875758479754
+    second: hit2 //// IK Chain09
+  - first:
+      74: -794244832792543373
+    second: jump //// IK Chain09
+  - first:
+      74: 3262874786303910646
+    second: death1 //// IK Chain09
+  - first:
+      74: 2848040939062755157
+    second: death2 //// IK Chain09
+  - first:
+      74: -1973433556062301687
+    second: allanims //// IK Chain09
+  - first:
+      74: -1160867061886392457
+    second: webLoop
+  - first:
+      74: 1705449658341174790
+    second: attack2end
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: refpose
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 33
+      lastFrame: 62
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 65
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2start
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 95
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 108
+      lastFrame: 137
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: taunt
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 141
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 173
+      lastFrame: 193
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit2
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 195
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 217
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 260
+      lastFrame: 299
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death2
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 302
+      lastFrame: 342
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: allanims
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 370
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: webLoop
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 175
+      lastFrame: 179
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2end
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 87
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: Box01
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
